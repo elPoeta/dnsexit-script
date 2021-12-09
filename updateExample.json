@@ -1,0 +1,13 @@
+{
+  "apikey": "YOUR-API-KEY",
+  "domain": "yourdomain.com",
+  "add": [
+    {
+      "type": "TXT",
+      "name": "_acme-challenge.yourdomain.com",
+      "content": "jfEVZCbJH_J96HjWXPNGoW0rpolrztrA-arVqPTre8c",
+      "ttl": 300,
+      "overwrite": true
+    }
+  ]
+}
